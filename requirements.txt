@@ -1,0 +1,8 @@
+streamlit
+altair==4.2.2
+transformers
+stqdm==0.0.4
+spacy>=3.0.0,<4.0.0
+protobuf==3.19.0
+spacy-streamlit
+torch
